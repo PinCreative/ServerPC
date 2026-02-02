@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Garam Rafinasi Halus",
+    "weight": 250,
+    "price": 5000,
+    "description": "Garam rafinasi halus berkualitas tinggi, cocok untuk memasak sehari-hari dan pengolahan makanan",
+    "sku": "GRM-001",
+    "image": "PRODUK_PAWON_dari_WEB/GARAM/garam-rafinasi-halus.png"
+  },
+  {
+    "name": "Garam Rafinasi Kasar",
+    "weight": 250,
+    "price": 5000,
+    "description": "Garam rafinasi kasar berkualitas tinggi, ideal untuk bumbu marinasi dan pengawetan",
+    "sku": "GRM-002",
+    "image": "PRODUK_PAWON_dari_WEB/GARAM/garam-rafinasi-kasar.png"
+  },
+  {
+    "name": "Garam Washing Halus",
+    "weight": 250,
+    "price": 4500,
+    "description": "Garam washing halus, cocok untuk berbagai keperluan masakan dan bumbu dapur",
+    "sku": "GRM-003",
+    "image": "PRODUK_PAWON_dari_WEB/GARAM/garam-washing-halus.png"
+  },
+  {
+    "name": "Garam Washing Kasar",
+    "weight": 250,
+    "price": 4500,
+    "description": "Garam washing kasar, ideal untuk pengasinan dan bumbu masakan tradisional",
+    "sku": "GRM-004",
+    "image": "PRODUK_PAWON_dari_WEB/GARAM/garam-washing-kasar.png"
+  }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Basil",
+        "weight": 25,
+        "price": 18000,
+        "description": "Basil kering berkualitas tinggi, aroma segar untuk masakan Italia dan Asia",
+        "sku": "HRB-001",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/basil.png"
+    },
+    {
+        "name": "Daun Bawang Bubuk",
+        "weight": 50,
+        "price": 15000,
+        "description": "Daun bawang bubuk praktis, memberikan aroma harum pada masakan",
+        "sku": "HRB-002",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-bawang-bubuk.png"
+    },
+    {
+        "name": "Daun Jeruk Flake",
+        "weight": 25,
+        "price": 20000,
+        "description": "Daun jeruk flake kering, aroma segar khas Indonesia",
+        "sku": "HRB-003",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-jeruk-flake.png"
+    },
+    {
+        "name": "Daun Jeruk",
+        "weight": 25,
+        "price": 18000,
+        "description": "Daun jeruk kering utuh, aroma harum untuk masakan tradisional",
+        "sku": "HRB-004",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-jeruk.png"
+    },
+    {
+        "name": "Daun Kunyit Bubuk",
+        "weight": 50,
+        "price": 16000,
+        "description": "Daun kunyit bubuk aromatik, cocok untuk pepes dan masakan tradisional",
+        "sku": "HRB-005",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-kunyit-bubuk.png"
+    },
+    {
+        "name": "Daun Salam Bayleaf",
+        "weight": 25,
+        "price": 14000,
+        "description": "Daun salam kering berkualitas, aroma khas untuk masakan berkuah",
+        "sku": "HRB-006",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-salam-bayleaf.png"
+    },
+    {
+        "name": "Daun Seledri Bubuk",
+        "weight": 50,
+        "price": 17000,
+        "description": "Daun seledri bubuk praktis, aroma segar untuk sup dan masakan",
+        "sku": "HRB-007",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-seledri-bubuk.png"
+    },
+    {
+        "name": "Daun Sereh",
+        "weight": 50,
+        "price": 15000,
+        "description": "Daun sereh kering, aroma segar dan wangi untuk masakan dan minuman",
+        "sku": "HRB-008",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/daun-sereh.png"
+    },
+    {
+        "name": "Oregano",
+        "weight": 25,
+        "price": 20000,
+        "description": "Oregano kering premium, cocok untuk pizza, pasta, dan masakan Mediterranean",
+        "sku": "HRB-009",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/oregano.png"
+    },
+    {
+        "name": "Parsley",
+        "weight": 25,
+        "price": 19000,
+        "description": "Parsley kering berkualitas, garnish dan bumbu untuk masakan Western",
+        "sku": "HRB-010",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/parsley.png"
+    },
+    {
+        "name": "Rosemary",
+        "weight": 25,
+        "price": 22000,
+        "description": "Rosemary kering aromatik, cocok untuk daging panggang dan masakan Eropa",
+        "sku": "HRB-011",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/rosemary.png"
+    },
+    {
+        "name": "Thyme",
+        "weight": 25,
+        "price": 21000,
+        "description": "Thyme kering berkualitas tinggi, aroma kuat untuk sup dan masakan panggang",
+        "sku": "HRB-012",
+        "image": "PRODUK_PAWON_dari_WEB/Herbs/thyme.png"
+    }
+]
